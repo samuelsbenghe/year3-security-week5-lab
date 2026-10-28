@@ -1,0 +1,3 @@
+wapiti3
+ipython
+ipykernel
